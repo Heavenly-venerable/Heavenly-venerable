@@ -6,7 +6,7 @@
 💬 Enthusiastic about problem-solving, clean code, and continuous learning.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/random-someone505) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/random_someone505) 
 
 ## 💻 Tech Stack:
 ### Frontend:
